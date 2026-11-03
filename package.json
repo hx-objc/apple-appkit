@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "@hx-objc/apple-shared": "github:hx-objc/apple-shared",
+    "@hx-objc/apple-shared-mac": "github:hx-objc/apple-shared-mac"
+  },
+  "description": "Haxe externs for hxmc: macOS: AppKit and every macOS API.",
+  "haxe": {
+    "classPath": "src",
+    "name": "apple-appkit"
+  },
+  "license": "MIT",
+  "name": "@hx-objc/apple-appkit",
+  "repository": "github:hx-objc/apple-appkit",
+  "version": "0.1.0"
+}
